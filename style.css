@@ -1,0 +1,25 @@
+.title{
+    color:darkslateblue;
+    font-weight:bold; 
+    text-align:center;
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 3px 5px 16px rgb(39, 14, 81);
+    /* 3px untuk offset (kordinat x)
+    5px untuk kordinat y
+    16px biar blur */
+}
+
+.okelah{
+    font-family:'Times New Roman', Times, serif
+}
+
+.apel{
+    margin-bottom: 20px;
+    box-shadow: 3px 5px 10px rgba(39, 14, 81, 0.67);
+}
+
+.tomat{
+    margin-bottom: 20px;
+    box-shadow: 3px 5px 10px rgba(39, 14, 81, 0.67);
+}
