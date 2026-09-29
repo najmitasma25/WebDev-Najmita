@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(235, 215, 250);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.card{
+    background-color: rgba(156, 159, 255, 0.759);
+    width: 300px;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 10px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.foto-profil {
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid blueviolet;
+
+}
+
+.nama{
+    color:rgb(47, 8, 118);
+    margin: 15px 0 5px 0;
+}
+
+.state{
+    color:rgb(165, 133, 231);
+    font-size:14px;
+    font-weight:bold;
+    margin-bottom: 15px;
+}
+
+.bio {
+    color: rgb(98, 32, 168);
+    font-size:14px;
+    line-height:1.5;
+}
+
+.contact {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color:rgb(197, 173, 220);
+    color:antiquewhite;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
