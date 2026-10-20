@@ -1,0 +1,25 @@
+.box-R{
+    background-color: rgba(255, 0, 0, 0.42);
+    width: fit-content;
+}
+
+.box-Y{
+    background-color: yellow;
+    width: fit-content;
+}
+
+.box-G{
+    background-color: greenyellow;
+    width: fit-content;
+}
+
+.box-B{
+    background-color: rgba(0, 0, 255, 0.62);
+    width: fit-content;
+}
+
+.container{
+    display: flex;
+}
+
+
